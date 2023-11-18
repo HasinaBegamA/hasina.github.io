@@ -1,14 +1,18 @@
-<html><head>
-<title>KG Hospital</title>
-</head>
-<body bgcolor="Red"><font color="white" face="timesnewroman">
-<h1 align="center">KG Hospital</h1>
-<p><b>KG Hospital,a quaternary care,multispecialty hospital, has been at the cutting edge of medicine while staying true to its charitable mission and providing advanced yet affordable healthcare since 1974.  
-
-KG Hospital, run by K.Govindaswamy Naidu Medical Trust, was founded in 1974 by 'Dharmaveera' K.Govindaswamy Naidu, a leading industrialist and philanthropist from Annur village in Coimbatore district.
-
-Dr G.Bakthavathsalam (MS, FICS, FCCP, FAMS), the Managing Trustee and Chairman of KG Hospital, has grown the hospital organically from a 10-bed hospital in 1974 to the state-of-the-art healthcare provider it is today.  For his service to society, Dr Bakthavathsalam (fondly known as Dr GB) has received numerous coveted awards including Padma Shri Award from the President of India and Dr B.C.Roy Award from the Prime Minister of India.</b></p>
-<table border="2"width="50%"height="50%">
-<td><h1><br><img src=https://th.bing.com/th/id/R.685b22e015797bbe16e0588c31573cf3?rik=Dg66nUcn19vEuA&riu=http%3a%2f%2fyellowpagesinfo.in%2fupload%2fslider%2f031003961kgbanner1.jpg&ehk=f4MqpIz8ll%2fHtl43Si4ZGE38SJ6M7hXnjKCEQlj3ntw%3d&risl=&pid=ImgRaw=width="300"height="300"></img></td>
+<html>
+<title>FRAME 1</title>
+<body>
+<center>
+<h1><p style="color:red">KG HOSPITAL</h1></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Dr.G.Bakthavathsalam.jpg/220px-Dr.G.Bakthavathsalam.jpg">
+</center>
+<body bgcolor="lightgray">
+<p>
+<ul type="square">
+<li>G. Bakthavathsalam is the chairman and the managing trustee of Dharmaveera K Govindaswamy Naidu Medical Trust, which runs the K.G. Hospital in Coimbatore, India.<li>He was awarded a Padma Shri in 2005.<li>Dr GB, as he is fondly known as, was born on 5 April 1942 at Annur village of Coimbatore district and graduated with a Masters of Science (MBBS - 1964) from Madras Medical College. He then received his post graduate training in surgery at the Mount Sinai Hospital in Chicago (USA).
+<li>On the clarion call given by his father, Dharmaveera K. Govindaswamy, to serve the poor countrymen in the field of healthcare, Bakthavathsalam returned to India in 1973.<li>In 1974, his father, Dharmaveera K Govindaswamy Naidu set up KG Hospital.
+<li>Initially, started as 10-beds and 1 doctor hospital, KG Hospital has now grown into a 550-bedded multi and super speciality and post graduate medical center — a "Centre of Excellence" recognized in India and abroad and has treated more than 70 lakh patients under the blessings of his beloved father KG. KG Hospital is also a postgraduate teaching institute supported by Colleges of Allied Health Sciences, Nursing and Physiotherapy. Alumni from KG College of Health Sciences are present in 21 countries world wide.
+</ul>
+</p>
+<a href="doctor.html">DOCTOR</a>
 </body>
 </html>
